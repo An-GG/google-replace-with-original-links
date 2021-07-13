@@ -27,7 +27,11 @@ function link_search() {
 }
 
 function link_reg() {
-    document.body.oncontextmenu = (e) => { link_search(); }
+    (new MutationObserver(link_search)).observe(document, {
+        childList: true,
+        subtree: true,
+        attributes: true,
+    });
 }
 
 link_reg();
