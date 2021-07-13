@@ -31,4 +31,7 @@ I just thought it was neat how effective such a tiny piece of code could be.)
   
 ## script injection  
 - can be loaded at any time (for now)
-- extensions in progress  
+
+## extentions 
+(somewhat jank) extensions here:
+[google-replace-with-original-links-extensions](https://github.com/An-GG/google-replace-with-original-links-extensions)
