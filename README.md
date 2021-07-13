@@ -17,7 +17,8 @@ really well.  *See:* [Rob--W/dont-track-me-google](https://github.com/Rob--W/don
 This project **does not focus on tracking prevention or privacy**, and only consists of the minimum possible 
 complexity required to replace tracking links with their true destinations. This project's motivation was 
 simply to reduce the amount of active JavaScript running for a client, and relatedly, to decrease the chance 
-that changes to the page's source will require significant long-term maintenance of this project. 
+that changes to the page's source will require significant long-term maintenance of this project. (Honestly, 
+I just thought it was neat how effective such a tiny piece of code could be.)
 
 #
   
