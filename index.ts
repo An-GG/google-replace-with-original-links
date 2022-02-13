@@ -1,15 +1,13 @@
 // ==UserScript==
 // @name         google-replace-with-original-links
-// @namespace    https://www.returnyoutubedislike.com/
+// @namespace    https://github.com/An-GG/google-replace-with-original-links/
 // @homepage     https://github.com/An-GG/google-replace-with-original-links/
 // @version      0.0.1
 // @encoding     utf-8
 // @description  This script will observe for changes in the DOM tree and will swap out any tracking links if it sees them.
-// @icon         https://github.com/Anarios/return-youtube-dislike/raw/main/Icons/Return%20Youtube%20Dislike%20-%20Transparent.png
-// @author       Anarios & JRWR
-// @match        *://*.youtube.com/*
-// @exclude      *://music.youtube.com/*
-// @exclude      *://*.music.youtube.com/*
+// @icon         https://raw.githubusercontent.com/An-GG/google-replace-with-original-links/master/dist/google-replace-tracking-links.png
+// @author       An-GG
+// @match        *://*.google.com/*
 // @compatible   chrome
 // @compatible   firefox
 // @compatible   opera
@@ -17,9 +15,6 @@
 // @compatible   edge
 // @downloadURL  https://raw.githubusercontent.com/An-GG/google-replace-with-original-links/master/dist/index.js
 // @updateURL    https://raw.githubusercontent.com/An-GG/google-replace-with-original-links/master/dist/index.js
-// @grant        GM.xmlHttpRequest
-// @connect      youtube.com
-// @grant        GM_addStyle
 // @run-at       document-end
 // ==/UserScript==
 
