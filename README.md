@@ -11,10 +11,10 @@ at load time. Instead, we have to watch for mutation events.
 This script will observe for changes in the DOM tree and will swap out any tracking links if it sees them.
   
 ## before  
-![before](https://www.cs.utexas.edu/~angg/google-true-source-links-examples/a.gif)  
+![before](https://raw.githubusercontent.com/An-GG/google-replace-with-original-links/master/example_gif/a.gif)  
 *absolutely disgusting*   
 
 ## after
-![after](https://www.cs.utexas.edu/~angg/google-true-source-links-examples/b.gif)
+![after](https://raw.githubusercontent.com/An-GG/google-replace-with-original-links/master/example_gif/b.gif)
   
 
